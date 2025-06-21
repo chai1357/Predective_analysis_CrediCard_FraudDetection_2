@@ -1,5 +1,17 @@
 # Predective_analysis_CrediCard_FraudDetection_2
 
+** COMPANY **    : CODETECH IT SOLUTIONS
+
+** NAME **       : DUBBIREEDY NARASIMHA KRISHNA CHAITANYA
+
+** INTERN ID **  : CT06DN610
+
+** DOMAIN **     : DATA ANALYSIS
+
+** BATCH DURATION ** : May 15th, 2025 to June 30th, 2025.
+
+** MENTOR NAME **     : NEELA SANTOSH 
+
 ** DESCRIPTION**  : In this task, I built machine learning models to predict whether a credit card transaction was fraud or not. The idea was to take the big dataset I processed in Task 1 and train models that can automatically recognize patterns of fraud.
 
 Since fraud detection is a classification problem (predicting fraud or no fraud), I used three popular machine learning algorithms: Logistic Regression, Random Forest Classifier, and XGBoost Classifier.
